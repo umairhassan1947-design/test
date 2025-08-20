@@ -22,6 +22,7 @@ if isinstance(myfloat, float) and myfloat == 10.0:
 if isinstance(myint, int) and myint == 20:
     print("Integer: %d" % myint)
 #f strings can also be used and they are also placeholders
-print(f'string is {mystring}')
-print(f'integer is {myint}')
-print(f'float is {myfloat}')
+print(f'string is {mystring} \ninteger is {myint} \nfloat is {myfloat}')
+
+
+
