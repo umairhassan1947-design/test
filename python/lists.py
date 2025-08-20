@@ -26,6 +26,7 @@ for x in range(0,5) : #range 0 to 5 is used because 0 is the first index in the 
 #selecting specific items from lists
 names = ['umair', 'ali', 'wattoo', 'alu','niazi']
 print(f'second name on the list is {names[1]}') #1 is used because index starts from 0
+#done
 
 
     
