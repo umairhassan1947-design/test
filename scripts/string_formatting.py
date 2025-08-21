@@ -20,8 +20,10 @@ print(s.index('m')) #gives the index number where first instance of m is found
 print(s.count('l')) #gives the count of l in the string
 print(s[3:10:2]) #starts from index 3 and goes till 9 with a step of 2 
 print (s[::-1]) #reverses the string
-print(s.upper)
-print(s.lower)
+print(s.upper()) #converts in uppercase
+print(s.lower()) #converts in lowercase
+
+
 
 
 
